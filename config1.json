@@ -1,0 +1,4 @@
+{
+    "wav_dir": "/root/autodl-tmp/Audios",
+    "label_path": "/root/autodl-tmp/Labels/labels_consensus.csv"
+}
